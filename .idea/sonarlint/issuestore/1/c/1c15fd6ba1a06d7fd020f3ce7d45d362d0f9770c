@@ -1,0 +1,9 @@
+
+e
+java:S1192L"ODefine a constant instead of duplicating this literal "/api/v1/juego/" 3 times.(ŒçŒ
+V	java:S107*"BConstructor has 12 parameters, which is greater than 7 authorized.(Ä¼æ:
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Ğ¦÷
+I
+java:S1172z".Remove this unused method parameter "request".(ÎÎ£ìÿÿÿÿÿ
+o
+java:S1602ƒ"SRemove useless curly braces around statement and then remove useless return keyword(î‹Á­øÿÿÿÿ
